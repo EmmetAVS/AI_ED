@@ -1,6 +1,6 @@
 {
   "normal-model-unprompted": 1.0,
-  "normal-model-prompted": 1.0415675530020723,
-  "finetuned-model-unprompted": 0.7891041437379418,
-  "finetuned-model-prompted": 0.9202057544914721
+  "normal-model-prompted": 1.0769336364875346,
+  "finetuned-model-unprompted": 0.7975146316480225,
+  "finetuned-model-prompted": 0.8663595700534578
 }
